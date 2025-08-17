@@ -12,7 +12,7 @@ End-to-end ML project to predict if an employee will leave (Attrition = Yes) usi
 - `assets/` – plots (top features, ROC, PR, confusion matrix)
 
 ## Try the App
-Deployed on Hugging Face Spaces: *(add your URL here)*
+Deployed on Hugging Face Spaces: *(https://huggingface.co/spaces/Mudassir110/employee-attrition-app1)*
 
 ## How to run locally
 ```bash
